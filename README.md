@@ -13,7 +13,7 @@ My background combines **SQL Server administration and development in the corpor
 |---|---|
 | **Data engineering** | SQL Server (administration & development) · SQL · ETL / data pipelines · data modelling |
 | **Data analysis** | Python (Pandas, NumPy, Plotly) · Anaconda / Jupyter · Excel |
-| **Reporting & BI** | Power BI |fgjgfhgggh
+| **Reporting & BI** | Power BI |Microsof Excel | Adobe illustrator
 | **Data collection & GIS** | KoboToolbox · ArcGIS |
 | **Automation** | n8n · APIs |
 
